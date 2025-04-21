@@ -25,4 +25,4 @@ Postman (để test API)
 Clone repo về máy:
 
    ```bash
-   git clone https://github.com/yourusername/K23CNT1_NguyenHoaiNam_NetCore.git
+   git clone https://github.com/K23CNT1-NguyenHoaiNam/K23CNT1_NguyenHoaiNam_NetCore
